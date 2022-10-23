@@ -13,7 +13,7 @@ public class _1007 {
 		Saída
 		Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade.
 		 */
-
+		//outra alteração
 		Scanner sc = new Scanner(System.in);
 
 		int dif;
