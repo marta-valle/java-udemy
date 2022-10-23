@@ -5,21 +5,19 @@ public class _1006 {
 
 	public static void main(String[] args) {
 		
-		/*Leia 3 valores, no caso, variï¿½veis A, B e C, que sï¿½o as trï¿½s notas de um aluno.
-		 * A seguir, calcule a mï¿½dia do aluno, sabendo que a nota:
+		/*Leia 3 valores, no caso, variáveis A, B e C, que são as três notas de um aluno.
+		 * A seguir, calcule a média do aluno, sabendo que a nota:
 		 *  A tem peso 2, a nota B tem peso 3 e a nota C tem peso 5.
-		 *  Considere que cada nota pode ir de 0 atï¿½ 10.0, sempre com uma casa decimal.
+		 *  Considere que cada nota pode ir de 0 até 10.0, sempre com uma casa decimal.
 		Entrada
-		O arquivo de entrada contï¿½m 3 valores com uma casa decimal, de dupla precisï¿½o (double).
+		O arquivo de entrada contém 3 valores com uma casa decimal, de dupla precisão (double).
 
-		Saï¿½da
-		Imprima a mensagem "MEDIA" e a mï¿½dia do aluno
- 		com 1 dï¿½gito apï¿½s o ponto decimal e com um espaï¿½o em branco antes e depois da igualdade.
-  		Assim como todos os problemas, nï¿½o esqueï¿½a de imprimir o fim de linha apï¿½s o resultado, caso contrï¿½rio, vocï¿½ receberï¿½ "Presentation Error".
+		Saída
+		Imprima a mensagem "MEDIA" e a média do aluno
+ 		com 1 dígito após o ponto decimal e com um espaço em branco antes e depois da igualdade.
+  		Assim como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 		*/
-		
-		//alteraï¿½ï¿½o da branch secundï¿½ria
-		//alteraï¿½ï¿½o na branch principal
+
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
