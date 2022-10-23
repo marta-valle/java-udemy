@@ -17,7 +17,7 @@ public class _1006 {
  		com 1 dígito após o ponto decimal e com um espaço em branco antes e depois da igualdade.
   		Assim como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 		*/
-		//alteração na branch principal
+
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
