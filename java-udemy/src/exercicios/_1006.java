@@ -25,7 +25,6 @@ public class _1006 {
 		double b = sc.nextDouble();
 		double c = sc.nextDouble();
 		
-		//teste 2
 		a1 = a * 2;
 		b1 = b * 3;
 		c1 = c * 5;
