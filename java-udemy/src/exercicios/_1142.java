@@ -35,3 +35,21 @@ public class _1142 {
 	}
 
 }
+/*  outra forma que fiz, mas nem lembrava. 
+Scanner sc = new Scanner(System.in);
+int num = sc.nextInt();
+int cont = 1;
+
+for (int i = 1; i <= num; i++) {
+
+	System.out.printf(" %d ", cont );
+	cont++;
+	System.out.printf(" %d ", cont );
+	cont++;
+	System.out.printf(" %d PUM%n", cont );
+	cont= cont+2;
+}
+sc.close();
+}
+}*/
+
